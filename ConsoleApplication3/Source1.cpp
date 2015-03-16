@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+//testing multiple cpp files
 void MyFunc(){
 	string mystring;
 	mystring = "Using multiple cpp files";
